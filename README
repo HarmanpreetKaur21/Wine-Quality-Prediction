@@ -1,0 +1,7 @@
+SET UP A VIRTUAL ENVIORNMENT 
+INSTALL THE DEPENDENCIES 
+pip install streamlit
+pip install pandas
+pip install scikit-learn
+TO RUN THE CODE ON LOCAL HOST USE
+streamlit run app.py
