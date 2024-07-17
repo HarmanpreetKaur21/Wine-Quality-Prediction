@@ -8,12 +8,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/HarmanpreetKaur/SpamFilteration.git
+    git clone https://github.com/HarmanpreetKaur21/Wine-Quality-Prediction.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd SpamFilteration
+    cd Wine-Quality-Prediction
     ```
 
 3. Install the required dependencies:
@@ -23,11 +23,12 @@ To get started with the project, follow these steps:
 
 ## Usage
 
-Follow these instructions to use the spam filter:
+Follow these instructions to use the wine quality prediction model:
 
 1. Open the project in VS Code
 
 2. Run the main application:
     ```sh
-    streamlit run pp.py
+    streamlit run app.py
     ```
+
