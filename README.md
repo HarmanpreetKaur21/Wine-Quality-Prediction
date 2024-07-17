@@ -5,7 +5,13 @@ The project aims to predict the quality of wine based on the various chemical pr
 # To run the application
 Download all the files. Save them in a folder. Open the folder in vs code.
 Install the required requirements using--
-pip install streamlit,
+'''
+pip install streamlit
+'''
+'''
 pip install scikit-learn
+'''
 To run--
+'''
 streamlit run app.py
+'''
